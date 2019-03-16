@@ -64,6 +64,10 @@ const questions = [
   { question: 'Lenient', answer: 'อ่อนโยน' },
   { question: 'Risky', answer: 'เสี่ยง' },
   { question: 'Exploit', answer: 'เอาเปรียบ' },
+  { question: 'Begging', answer: 'อ้อนวอน' },
+  { question: 'Sympathy', answer: 'ความเห็นอกเห็นใจ' },
+  { question: 'Put it down', answer: 'วางมันลง' },
+  { question: 'Hanging', answer: 'ที่แขวนอยู่' },
 ];
 
 export default questions;
