@@ -68,6 +68,9 @@ const questions = [
   { question: 'Sympathy', answer: 'ความเห็นอกเห็นใจ' },
   { question: 'Put it down', answer: 'วางมันลง' },
   { question: 'Hanging', answer: 'ที่แขวนอยู่' },
+  { question: 'Careless', answer: 'ประมาท' },
+  { question: 'Foolish', answer: 'งี่เง่า' },
+  { question: 'Creative', answer: 'มีหัวคิด' },
 ];
 
 export default questions;
